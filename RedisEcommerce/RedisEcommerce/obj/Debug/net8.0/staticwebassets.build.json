@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1SOOGxiZYyryBirkPvfR6jcChqLE8tGMYBXgtHi9LlY=",
+  "Source": "RedisEcommerce",
+  "BasePath": "_content/RedisEcommerce",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

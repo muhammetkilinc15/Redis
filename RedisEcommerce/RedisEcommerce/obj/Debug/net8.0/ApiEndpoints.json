@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "RedisEcommerce.Controllers.ProductController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

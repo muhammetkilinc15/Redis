@@ -1,0 +1,6 @@
+@RedisEcommerce_HostAddress = http://localhost:5245
+
+GET {{RedisEcommerce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

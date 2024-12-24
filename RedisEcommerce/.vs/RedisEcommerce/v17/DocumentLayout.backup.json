@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|c:\\users\\bemu\\desktop\\redis\\redisecommerce\\redisecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|solutionrelative:redisecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|c:\\users\\bemu\\desktop\\redis\\redisecommerce\\redisecommerce\\services\\redis\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|solutionrelative:redisecommerce\\services\\redis\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|c:\\users\\bemu\\desktop\\redis\\redisecommerce\\redisecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E54B81D-CEB6-42F2-80BC-D839299789F7}|RedisEcommerce\\RedisEcommerce.csproj|solutionrelative:redisecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RedisEcommerce\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "RedisEcommerce\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:23:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Services\\Redis\\ICacheService.cs",
+              "RelativeDocumentMoniker": "RedisEcommerce\\Services\\Redis\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Services\\Redis\\ICacheService.cs",
+              "RelativeToolTip": "RedisEcommerce\\Services\\Redis\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:23:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RedisEcommerce\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Bemu\\Desktop\\Redis\\RedisEcommerce\\RedisEcommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RedisEcommerce\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:20:42.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

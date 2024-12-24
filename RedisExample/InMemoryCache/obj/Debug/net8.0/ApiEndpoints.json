@@ -1,0 +1,68 @@
+[
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "GetValue",
+    "RelativePath": "api/Values/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "GetDate",
+    "RelativePath": "api/Values/getdate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "RemoveValue",
+    "RelativePath": "api/Values/remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "SetValue",
+    "RelativePath": "api/Values/set/{value}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "SetDate",
+    "RelativePath": "api/Values/setdate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InMemoryCache.Controllers.ValuesController",
+    "Method": "TryGetValue",
+    "RelativePath": "api/Values/tryget",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

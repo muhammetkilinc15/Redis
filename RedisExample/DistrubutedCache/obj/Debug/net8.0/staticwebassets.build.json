@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nyXCEYwTwWYHZ6Nbo0ZHTyedrKuxMzn3N94/2HBxrxM=",
+  "Source": "DistrubutedCache",
+  "BasePath": "_content/DistrubutedCache",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
